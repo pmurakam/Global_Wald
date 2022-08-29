@@ -1,4 +1,4 @@
-# Global_Wald
+# global.wald
 A function to test and estimate arbitrary linear combinations of model coefficients.
 
 Description:  
