@@ -1,5 +1,5 @@
 # global.wald
-A function to test and estimate arbitrary linear combinations of model coefficients.
+Functions for global wald testing and estimation
 
 Description:  
 A function to test and estimate arbitrary linear combinations of model coefficients.  
